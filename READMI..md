@@ -8,3 +8,4 @@ En selectores se realizo un ejercicio basico de cajas, donde se utilizaron selec
 
 En css un selector es una herramienta que permite seleccionar un elemento de html.
 
+hay dos formas de identificar los elementos, como id y como clases.
